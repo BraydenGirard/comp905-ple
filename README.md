@@ -55,7 +55,7 @@ Below are a couple comprehension questions that will help you start thinking in 
 ## Part 3 - Identifying appropriate data types
 In the following exercise, we will test our knowledge of Python data types by selecting the assigning the appropriate data to each variable provided in the code below. Follow these steps to complete this learning activity:
 
-1. Copy the code below into a new .py file in VSCode, name the file **lastname-firstname-comp904-la-1.py. 
+1. Copy the code below into a new .py file in VSCode, name the file **lastname-firstname-comp904-la-1.py**. 
 
 ```python
 first_name = 
