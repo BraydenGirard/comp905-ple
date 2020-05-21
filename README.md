@@ -59,8 +59,17 @@ In the following exercise, we will test our knowledge of Python data types by se
 
 ```python
 first_name = 
+last_name =
+birth_year =
+is_active =
+todos =
 
 print(f'first_name is a variable of type {type(first_name).__name__} and its value is {first_name}')
+print(f'last_name is a variable of type {type(last_name).__name__} and its value is {last_name}')
+print(f'birth_year is a variable of type {type(birth_year).__name__} and its value is {birth_year}')
+print(f'is_active is a variable of type {type(is_active).__name__} and its value is {is_active}')
+print(f'todos is a variable of type {type(todos).__name__} and its value is {todos}')
+
 ```
 
 2. Edit the code (do not edit variable names or print statements) so that each variable provided to you is associated with data according to the data type that is appropriate based on the name of the variable (data given to variable can be made up but must be of the appropriate data type)
