@@ -30,9 +30,9 @@ The final step you will need to take in order to complete your Python developmen
 
 5. Open VSCode and create a new .py file by pressing Ctrl-N on Windows & Linux or CMD-N on Mac. Select a location to save your file, give it a name, and make sure that the file type is .py
 
-6. Check that VScode is using the correct version of Python and if not, change it by clicking on the version and selecting version 3.
+6. Check that VScode is using the correct version of Python and if not, change it by clicking on the version (area highlighted in yellow in the below screenshot) and selecting version 3.
 
-![VSCode Python Version]()
+![VSCode Python Version](https://res.cloudinary.com/cst-slc/image/upload/v1590084018/4BD0BA15-24EA-4071-8522-E32F011069B9_idumxu.jpg)
 
 ### VSCode Shortcut Cheat Sheets
 It is highly recomended that you use as many shortcuts as possible when learning to use VSCode. When you are programming, the more times you have to take your hands off the keyboard and reach for the mouse, the longer it will take you to complete your work. It may seem like a small amount of time, but if you add up all the time you do this in a couple hours of progamming, it makes a big difference. Below are the shortcut cheat sheets for Windows, Mac and Linux.
@@ -74,9 +74,9 @@ print(f'todos is a variable of type {type(todos).__name__} and its value is {tod
 
 2. Edit the code (do not edit variable names or print statements) so that each variable provided to you is associated with data according to the data type that is appropriate based on the name of the variable (data given to variable can be made up but must be of the appropriate data type)
 
-3. Run your code and view the output
+3. Run your code and view the output by right-clicking the Python file in the explorer on the left and select Run Python File in Terminal. You will see output at the bottom like in the picture below.
 
-![Running Python in VSCode]()
+![Running Python in VSCode](https://res.cloudinary.com/cst-slc/image/upload/v1590084367/0644A8FC-7545-47F9-9BF9-F9F3A9970DB0_li7woy.png)
 
 
 
