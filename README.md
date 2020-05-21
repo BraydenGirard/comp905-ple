@@ -41,14 +41,33 @@ It is highly recomended that you use as many shortcuts as possible when learning
 
 ![VSCodd Cheat Sheet Linux](https://res.cloudinary.com/cst-slc/image/upload/v1590076798/B396EA7B-DE71-4865-AF24-5AF3AC9C88A7_ymgszy.jpg)
 
-## Part 2 - What is Programming and why do we Program
-Below are a few comprehension questions that will help you start thinking in the mindset of a programmer. Please create a new .txt file in VSCode and title it **lastname-firstname-comp905-la-1.txt**. This file will be where you write your answers for the following questions.
+## Part 2 - What is programming and why do we program?
+Below are a couple comprehension questions that will help you start thinking in the mindset of a programmer. Please create a new .txt file in VSCode and title it **lastname-firstname-comp905-la-1.txt**. This file will be where you write your answers for the following questions.
 
 1. In your own words, explain how English and Python (or any programming language) are similar.
 
 2. Below is a short example of a business process. Right down the steps of the business process in the proper order and in point form. For each step, explain how it may be able to be replaced with a program or if not explain why not.
 
 > Sam owns a web design agency. Sam has several employees who work for him to build the websites that Sam sells to customers. Sam will sell a website to a customer by having coffee with them and discussing what they need to meet their goals. After the initial meeting, Sam has to remember to follow up with the customer a couple weeks later to make sure that they are still interested in working with him. While Sam has his meetings with prospective clients and does his follow ups, he also has to manage his existing projects. One big task for Sam is following up with his employees each week to remind them to give him updates on their progress. He reaches out to them by email each week to do this. Eventually Sam will sell a website after several follow ups with different clients. After Sam sells a website, he has to get all of the information from the client for the website. He writes this all down and then later has a meeting with his employees to explain it all to them. His employees now work on the site and the process continues.
+
+## Part 3 - Identifying appropriate data types
+In the following exercise, we will test our knowledge of Python data types by selecting the assigning the appropriate data to each variable provided in the code below. Follow these steps to complete this learning activity:
+
+1. Copy the code below into a new .py file in VSCode, name the file **lastname-firstname-comp904-la-1.py. 
+
+```python
+first_name = 
+
+print(f'first_name is a variable of type {type(first_name.__name__)} and its value is {first_name}');
+```
+
+2. Edit the code (do not edit variable names or print statements) so that each variable provided to you is associated with data according to the data type that is appropriate based on the name of the variable (data given to variable can be made up but must be of the appropriate data type)
+
+3. Run your code and view the output
+
+
+
+
 
 
 
