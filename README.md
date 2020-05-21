@@ -32,6 +32,8 @@ The final step you will need to take in order to complete your Python developmen
 
 6. Check that VScode is using the correct version of Python and if not, change it by clicking on the version and selecting version 3.
 
+![VSCode Python Version]()
+
 ### VSCode Shortcut Cheat Sheets
 It is highly recomended that you use as many shortcuts as possible when learning to use VSCode. When you are programming, the more times you have to take your hands off the keyboard and reach for the mouse, the longer it will take you to complete your work. It may seem like a small amount of time, but if you add up all the time you do this in a couple hours of progamming, it makes a big difference. Below are the shortcut cheat sheets for Windows, Mac and Linux.
 
@@ -58,13 +60,14 @@ In the following exercise, we will test our knowledge of Python data types by se
 ```python
 first_name = 
 
-print(f'first_name is a variable of type {type(first_name.__name__)} and its value is {first_name}');
+print(f'first_name is a variable of type {type(first_name).__name__} and its value is {first_name}')
 ```
 
 2. Edit the code (do not edit variable names or print statements) so that each variable provided to you is associated with data according to the data type that is appropriate based on the name of the variable (data given to variable can be made up but must be of the appropriate data type)
 
 3. Run your code and view the output
 
+![Running Python in VSCode]()
 
 
 
