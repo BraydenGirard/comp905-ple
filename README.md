@@ -1,12 +1,12 @@
-# Week 1 Learning Activity - COMP905
+# Week 1 Practical Lab Exercise - COMP905
 ## Intro
-Welcome to the first week of COMP905! As we spent some time this week reviewing your course outline, learning plan, and academic policies, this learning activity will be slighlty shorter than usual. In this weeks learning activity we will investigatge how to properly setup a Python development environment and also put into practice the theory we covered on what a programming language is and the different data types.
+Welcome to the first week of COMP905! As we spent some time this week reviewing your course outline, learning plan, and academic policies, this practical lab exercise will be slighlty shorter than usual. In this weeks practical lab exercise we will investigatge how to properly setup a Python development environment and also put into practice the theory we covered on what a programming language is and the different data types.
 
 ## Part 1 - Python Development Environment
-While there are many editors that are capable of working with Python, in this course we are going to be using Visual Studio Code (VSCode). This is a free and open source editor developed by Microsoft that can handle many different languages thanks to its large extension ecosystem. It is a popular editor in industry and will give you the tools you need to further your career in programming. 
+While there are many editors that are capable of working with Python, in this practical lab exercise we are going to be using Visual Studio Code (VSCode). This is a free and open source editor developed by Microsoft that can handle many different languages thanks to its large extension ecosystem. It is a popular editor in industry and will give you the tools you need to further your career in programming. 
 
 ### Installing Visual Studio Code
-To install Visual Studio Code you can visit [Microsofts website](https://code.visualstudio.com/download) and download the editor on a Windows, Mac, or Linux based PC. Be careful not to confuse Visual Studio Code with Visual Studio. Visual Studio is a more comprehenisve integrated development environment used by many for developing games and other large applications in different C languages. For this course, we will not be using Visual Studio but instead Visual Studio Code.
+To install Visual Studio Code you can visit [Microsofts website](https://code.visualstudio.com/download) and download the editor on a Windows, Mac, or Linux based PC. Be careful not to confuse Visual Studio Code with Visual Studio. Visual Studio is a more comprehenisve integrated development environment used by many for developing games and other large applications in different C languages. For this practical lab exercise, we will not be using Visual Studio but instead Visual Studio Code.
 
 ![Visual Studio Code Download Page](https://res.cloudinary.com/cst-slc/image/upload/v1590075595/3C65D409-4AB2-4475-9E00-DDFCC5D05822_y0ocww.jpg)
 
@@ -52,34 +52,30 @@ Below are a couple comprehension questions that will help you start thinking in 
 
 > Sam owns a web design agency. Sam has several employees who work for him to build the websites that Sam sells to customers. Sam will sell a website to a customer by having coffee with them and discussing what they need to meet their goals. After the initial meeting, Sam has to remember to follow up with the customer a couple weeks later to make sure that they are still interested in working with him. While Sam has his meetings with prospective clients and does his follow ups, he also has to manage his existing projects. One big task for Sam is following up with his employees each week to remind them to give him updates on their progress. He reaches out to them by email each week to do this. Eventually Sam will sell a website after several follow ups with different clients. After Sam sells a website, he has to get all of the information from the client for the website. He writes this all down and then later has a meeting with his employees to explain it all to them. His employees now work on the site and the process continues.
 
-## Part 3 - Identifying appropriate data types
-In the following exercise, we will test our knowledge of Python data types by selecting the assigning the appropriate data to each variable provided in the code below. Follow these steps to complete this learning activity:
+## Part 3 - Using Repl.it
+Now that we know how to setup a local python development environment using the Python interpreter and VSCode, we will move to the cloud and use a cloud environment. For the rest of this course, you will be using repl.it to complete your practical lab exercises. This will allow you to program on any device while benefting from a consistent development environment in your web browser.
 
-1. Copy the code below into a new .py file in VSCode, name the file **lastname-firstname-comp904-la-1.py**. 
+1. Check your SLC email for an invite to a Repl.it classroom.
+![Repl.it Email Invite](https://res.cloudinary.com/cst-slc/image/upload/v1591644095/2B65CF8B-3C7E-4B39-8579-036D334DC587_yxmbsv.jpg)
 
-```python
-first_name = 
-last_name =
-birth_year =
-is_active =
-todos =
+2. Accept your classroom invitation by clicking the Join Classroom button and creating an account on the registration page
+![Repl.it Signup Page](https://res.cloudinary.com/cst-slc/image/upload/v1591644095/2B65CF8B-3C7E-4B39-8579-036D334DC587_yxmbsv.jpg)
 
-print(f'first_name is a variable of type {type(first_name).__name__} and its value is {first_name}')
-print(f'last_name is a variable of type {type(last_name).__name__} and its value is {last_name}')
-print(f'birth_year is a variable of type {type(birth_year).__name__} and its value is {birth_year}')
-print(f'is_active is a variable of type {type(is_active).__name__} and its value is {is_active}')
-print(f'todos is a variable of type {type(todos).__name__} and its value is {todos}')
+3. You should now be able to view your classroom and assignments inside of your [Repl.it Student Account](https://repl.it/student)
 
-```
+## Part 4 - Identifying appropriate data types
+To complete this practical lab exercise visit [Repl.it Student Account Page](https://repl.it/student) and login with your account that was assigned to you.
+- Select the COMP905 Class
+- Select the assignment titled "Week 1 Practical Lab Exercise"
+- Complete the assignment according to the instructions in repl.it
 
-2. Edit the code (do not edit variable names or print statements) so that each variable provided to you is associated with data according to the data type that is appropriate based on the name of the variable (data given to variable can be made up but must be of the appropriate data type)
+### Part 5 - Tips to using Repl.it
 
-3. Run your code and view the output by right-clicking the Python file in the explorer on the left and select Run Python File in Terminal. You will see output at the bottom like in the picture below.
+- **You must click the submit button in the top right corner to save and submit your repl.it code.**
+- When you submit you will have the option to submit with errors or see what the error is and keep trying. You must submit your code even if it has errors, before the due date of the practical lab exercises. 
+- Below are examples of what you would see if there are errors and when you click the "what's wrong" button
 
-![Running Python in VSCode](https://res.cloudinary.com/cst-slc/image/upload/v1590084367/0644A8FC-7545-47F9-9BF9-F9F3A9970DB0_li7woy.png)
+![Repl.it Error](https://res.cloudinary.com/cst-slc/image/upload/v1591644548/792F7441-112B-442C-9EC6-02BA2B5FB28C_f8bzfc.jpg)
+![Repl.it Error Description](https://res.cloudinary.com/cst-slc/image/upload/v1591644548/682E9140-4FCF-4C1C-B8AC-9D78591EB3E2_ul1kjm.jpg)
 
-
-
-
-
-
+- You can run your code at anytime by clicking the play icon above your code window
