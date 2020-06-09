@@ -1,3 +1,5 @@
-# COMP905 - Practical Lab Exercises
+# COMP905
 
-## [Week 1](/week1)
+## Practical Lab Exercises
+
+### [Week 1](/week1/ple)
