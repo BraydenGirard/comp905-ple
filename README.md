@@ -1,4 +1,4 @@
-# Week 1 Practical Lab Exercise - COMP905
+# COMP905 - Week 1 - Practical Lab Exercise
 ## Intro
 Welcome to the first week of COMP905! As we spent some time this week reviewing your course outline, learning plan, and academic policies, this practical lab exercise will be slighlty shorter than usual. In this weeks practical lab exercise we will investigatge how to properly setup a Python development environment and also put into practice the theory we covered on what a programming language is and the different data types.
 
