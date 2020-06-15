@@ -69,7 +69,7 @@ To complete this practical lab exercise visit [Repl.it Student Account Page](htt
 - Select the assignment titled "Week 1 Practical Lab Exercise"
 - Complete the assignment according to the instructions in repl.it
 
-### Part 5 - Tips to using Repl.it
+## Part 5 - Tips to using Repl.it
 
 - **You must click the submit button in the top right corner to save and submit your repl.it code.**
 - When you submit you will have the option to submit with errors or see what the error is and keep trying. You must submit your code even if it has errors, before the due date of the practical lab exercises. 
@@ -80,4 +80,6 @@ To complete this practical lab exercise visit [Repl.it Student Account Page](htt
 
 - You can run your code at anytime by clicking the play icon above your code window
 
+## Part 6 - Data Type Practice
 
+<iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/5408740/be34be1b7a4e5a7e4f2df6f6e4f8faee"></iframe>
