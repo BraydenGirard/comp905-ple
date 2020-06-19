@@ -1,4 +1,4 @@
-# COMP905 - Week 9 - Practical Lab Exercise
+# COMP905 - Week 9 - Practical Lab Exercises
 
 ## Part 1
 <iframe frameborder="0" width="100%" height="600px" src="https://repl.it/student_embed/assignment/5449081/346502df9ee761e821ac1cb09edb662b"></iframe>
