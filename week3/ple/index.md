@@ -1,4 +1,4 @@
-# COMP905 - Week 3 - Practical Lab Exercise
+# COMP905 - Week 3 - Practical Lab Exercises
 
 ## Part 1 - Conditional Practice
 
