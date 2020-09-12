@@ -55,7 +55,7 @@ Below are a couple comprehension questions that will help you start thinking in 
 ## Part 3 - Using Repl.it
 Now that we know how to setup a local python development environment using the Python interpreter and VSCode, we will move to the cloud and use a cloud environment. For the rest of this course, you will be using repl.it to complete your practical lab exercises. This will allow you to program on any device while benefting from a consistent development environment in your web browser.
 
-1. Use the following link to join the Repl.it classroom - ![https://repl.it/classroom/invite/qvpkmWZ](https://repl.it/classroom/invite/qvpkmWZ).
+1. Use the following link to join the Repl.it classroom - [https://repl.it/classroom/invite/qvpkmWZ](https://repl.it/classroom/invite/qvpkmWZ).
 ![Repl.it Email Invite](https://res.cloudinary.com/cst-slc/image/upload/v1591644095/2B65CF8B-3C7E-4B39-8579-036D334DC587_yxmbsv.jpg)
 
 2. Accept your classroom invitation by clicking the Join Classroom button and creating an account on the registration page
